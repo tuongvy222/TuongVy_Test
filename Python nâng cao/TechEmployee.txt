@@ -1,0 +1,5 @@
+full_name,name,year_of_birth,position,skills,start_year,programming_language,projects
+Nguyen Van A,A,1989,Dev,tech_english_logic,2014,Python_C#_Java,project1_project2_project3_project4_project5_project6
+Nguyen Van B,B,1993,BI,analysis_mathematics_logic_english,2018,Python_R_SQL,project1_project2_project3_project4_project5
+Nguyen Van C,C,1990,Tester,analysis_meticulous_logic_english,2015,C_C#_Java_SQL_HTML_CSS,project1_project2_project3
+Nguyen Van D,D,1990,DS,english_tech_AI,2015,Python_R_C#_Java,project1_project2_project3_project4_project5_project6_project7

@@ -1,0 +1,8 @@
+full_name,name,year_of_birth,position,skills,start_year
+Nguyen Van A,A,1989,Dev,tech_english_logic,2014
+Nguyen Van B,B,1993,BI,analysis_mathematics_logic_english,2018
+Nguyen Van C,C,1990,Tester,analysis_meticulous_logic_english,2015
+Nguyen Van D,D,1990,DS,english_tech_AI,2015
+Nguyen Van H,H,1998,Marketing,communication_english,2019
+Nguyen Van N,N,1997,Sales,communication_english_negotiation_presentation,2019
+Nguyen Van M,M,2000,Telesales,communication_english,2020
