@@ -1,6 +1,7 @@
 Công ty BĐS Maico Group có nhu cầu muốn lưu trữ thông tin về nhân viên, văn phòng và doanh số theo từng văn phòng. Các nhu cầu lưu trữ cần có như sau.
 
 * Nhân viên
+* 
 Họ Tên
 
 Văn phòng
@@ -8,6 +9,7 @@ Văn phòng
 Mã nhân viên
 
 * Văn phòng
+
 Mã văn phòng
 
 Tên văn phòng
