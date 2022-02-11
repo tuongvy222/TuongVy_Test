@@ -8,7 +8,6 @@ Văn phòng
 Mã nhân viên
 
 * Văn phòng
-* 
 Mã văn phòng
 
 Tên văn phòng
